@@ -30,7 +30,7 @@
          <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12">
                 <div class="form-group">
-                    <strong>Name:</strong>
+                    <strong>Nameee:</strong>
                     <input type="text" name="name" value="{{ $product->name }}" class="form-control" placeholder="Name">
                 </div>
             </div>
